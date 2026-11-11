@@ -1,0 +1,16 @@
+Goran Grove
+Email: goran.grove@example.com
+Phone: +00 555 286 2483
+Location: Bengaluru
+
+SUMMARY
+Analyst with 1 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+Testing, Git, SQL, AWS basics, Linux
+
+EXPERIENCE
+- Software Engineer, Larkfield Labs, 2024 to 2025
+
+EDUCATION
+- M.Sc Statistics, graduated 2024

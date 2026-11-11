@@ -1,0 +1,17 @@
+Hana Hale
+Email: hana.hale@example.com
+Phone: +00 555 281 5107
+Location: Pune
+
+SUMMARY
+Engineer with 6 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+Testing, Git, SQL, FastAPI, Excel, Linux
+
+EXPERIENCE
+- Support Engineer, Alderbrook Systems, 2023 to 2025
+- Software Engineer, Harbourlight Tech, 2019 to 2023
+
+EDUCATION
+- B.Sc Mathematics, graduated 2018

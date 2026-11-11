@@ -1,0 +1,17 @@
+Rhea Reed
+Email: rhea.reed@example.com
+Phone: +00 555 435 2352
+Location: Chennai
+
+SUMMARY
+Engineer with 2 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+Linux, Power BI, Java, JavaScript, Python, PostgreSQL
+
+EXPERIENCE
+- Business Analyst, Alderbrook Systems, 2024 to 2025
+- Data Analyst, Larkfield Labs, 2023 to 2024
+
+EDUCATION
+- BCA, graduated 2023

@@ -1,0 +1,18 @@
+Sven Shaw
+Email: sven.shaw@example.com
+Phone: +00 555 326 5814
+Location: Mumbai
+
+SUMMARY
+Analyst with 10 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+SQL, JavaScript, Jira, Linux, Java, Python, FastAPI
+
+EXPERIENCE
+- Software Engineer, Larkfield Labs, 2021 to 2025
+- Software Engineer, Stonebridge Software, 2018 to 2021
+- DevOps Engineer, Harbourlight Tech, 2015 to 2018
+
+EDUCATION
+- BCA, graduated 2015

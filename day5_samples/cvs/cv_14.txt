@@ -1,0 +1,16 @@
+Noor Nash
+Email: noor.nash@example.com
+Phone: +00 555 809 2311
+Location: Kochi
+
+SUMMARY
+Engineer with 2 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+Jira, Python, Git, Java, Power BI
+
+EXPERIENCE
+- DevOps Engineer, Larkfield Labs, 2023 to 2025
+
+EDUCATION
+- B.E. Electronics, graduated 2022

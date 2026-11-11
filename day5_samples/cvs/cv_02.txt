@@ -1,0 +1,16 @@
+Bram Brook
+Email: bram.brook@example.com
+Phone: +00 555 274 1814
+Location: Mumbai
+
+SUMMARY
+Engineer with 3 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+SQL, AWS basics, JavaScript, Power BI
+
+EXPERIENCE
+- QA Engineer, Pinewood Digital, 2022 to 2025
+
+EDUCATION
+- MCA, graduated 2020
