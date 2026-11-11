@@ -1,0 +1,16 @@
+Asha Alder
+Email: asha.alder@example.com
+Phone: +00 555 588 8287
+Location: Kochi
+
+SUMMARY
+Analyst with 1 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+JavaScript, SQL, Git, AWS basics, Java, Power BI, Linux
+
+EXPERIENCE
+- Backend Developer, Stonebridge Software, 2024 to 2025
+
+EDUCATION
+- B.Sc Mathematics, graduated 2022

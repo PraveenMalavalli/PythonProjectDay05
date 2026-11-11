@@ -1,0 +1,18 @@
+Elio Ellis
+Email: elio.ellis@example.com
+Phone: +00 555 570 7880
+Location: Chennai
+
+SUMMARY
+Engineer with 7 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+FastAPI, Jira, SQL, Excel, Linux, Testing
+
+EXPERIENCE
+- Business Analyst, Alderbrook Systems, 2023 to 2025
+- Support Engineer, Stonebridge Software, 2021 to 2023
+- Software Engineer, Marlowe Finch Analytics, 2018 to 2021
+
+EDUCATION
+- B.Sc Mathematics, graduated 2017

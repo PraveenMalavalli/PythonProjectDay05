@@ -1,0 +1,17 @@
+Dara Dunn
+Email: dara.dunn@example.com
+Phone: +00 555 658 9225
+Location: Chennai
+
+SUMMARY
+Engineer with 7 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+JavaScript, Excel, Testing, Jira, PostgreSQL, Power BI, AWS basics
+
+EXPERIENCE
+- QA Engineer, Copperleaf Services, 2022 to 2025
+- Business Analyst, Copperleaf Services, 2018 to 2022
+
+EDUCATION
+- M.Sc Statistics, graduated 2018

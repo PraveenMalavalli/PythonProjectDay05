@@ -1,0 +1,18 @@
+Quin Quill
+Email: quin.quill@example.com
+Phone: +00 555 966 4099
+Location: Kochi
+
+SUMMARY
+Analyst with 8 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+JavaScript, AWS basics, Linux, Excel, Testing
+
+EXPERIENCE
+- Support Engineer, Pinewood Digital, 2023 to 2025
+- Software Engineer, Copperleaf Services, 2019 to 2023
+- Software Engineer, Quillfeather Data, 2017 to 2019
+
+EDUCATION
+- B.Sc Mathematics, graduated 2017

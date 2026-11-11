@@ -1,0 +1,35 @@
+{
+  "invoice": {
+    "vendor": "Brightwater Supplies Ltd (invented)",
+    "bill_to": "Demo Customer Co (invented)",
+    "invoice_number": "INV-2026-0417",
+    "invoice_date": "2026-03-14",
+    "due_date": "2026-04-13",
+    "line_items": [
+      {"description": "Office chairs", "quantity": 4, "unit_price": 3200.0, "amount": 12800.0},
+      {"description": "Desk lamps", "quantity": 10, "unit_price": 450.0, "amount": 4500.0},
+      {"description": "Delivery", "quantity": 1, "unit_price": 600.0, "amount": 600.0}
+    ],
+    "subtotal": 17900.0,
+    "tax_rate_percent": 18.0,
+    "tax_amount": 3222.0,
+    "total_due": 21122.0,
+    "currency": null
+  },
+  "invoice_scan_page_1": {
+    "vendor": "Harbourlight Stationers (invented)",
+    "bill_to": "Demo Customer Co (invented)",
+    "invoice_number": "INV-2026-0533",
+    "invoice_date": "2026-03-14",
+    "due_date": "2026-04-13",
+    "line_items": [
+      {"description": "A4 paper boxes", "quantity": 20, "unit_price": 520.0, "amount": 10400.0},
+      {"description": "Toner cartridges", "quantity": 3, "unit_price": 4100.0, "amount": 12300.0}
+    ],
+    "subtotal": 22700.0,
+    "tax_rate_percent": 18.0,
+    "tax_amount": 4086.0,
+    "total_due": 26786.0,
+    "currency": null
+  }
+}

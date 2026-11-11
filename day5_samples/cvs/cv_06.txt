@@ -1,0 +1,17 @@
+Farah Frost
+Email: farah.frost@example.com
+Phone: +00 555 369 8379
+Location: Kochi
+
+SUMMARY
+Engineer with 5 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+FastAPI, Python, Linux, Jira, Testing, PostgreSQL
+
+EXPERIENCE
+- DevOps Engineer, Harbourlight Tech, 2022 to 2025
+- Backend Developer, Harbourlight Tech, 2020 to 2022
+
+EDUCATION
+- BCA, graduated 2018

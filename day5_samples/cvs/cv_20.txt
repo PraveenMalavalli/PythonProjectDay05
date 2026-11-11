@@ -1,0 +1,18 @@
+Tala Thorn
+Email: tala.thorn@example.com
+Phone: +00 555 746 4645
+Location: Kochi
+
+SUMMARY
+Engineer with 3 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+PostgreSQL, Docker, Linux, FastAPI, SQL
+
+EXPERIENCE
+- Backend Developer, Harbourlight Tech, 2024 to 2025
+- Business Analyst, Larkfield Labs, 2023 to 2024
+- Support Engineer, Pinewood Digital, 2022 to 2023
+
+EDUCATION
+- BCA, graduated 2022

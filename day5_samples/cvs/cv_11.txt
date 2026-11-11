@@ -1,0 +1,16 @@
+Kaya Kent
+Email: kaya.kent@example.com
+Phone: +00 555 183 7237
+Location: Mumbai
+
+SUMMARY
+Engineer with 1 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+Linux, SQL, AWS basics, Jira, JavaScript, Git
+
+EXPERIENCE
+- Backend Developer, Stonebridge Software, 2024 to 2025
+
+EDUCATION
+- M.Sc Statistics, graduated 2022

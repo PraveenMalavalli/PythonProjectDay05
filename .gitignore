@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.pyright/
+*.pyc
+results/*.json
+results/*.jsonl
+results/*.csv
+!results/accuracy_table_template.csv
+!results/ground_truth_review.csv

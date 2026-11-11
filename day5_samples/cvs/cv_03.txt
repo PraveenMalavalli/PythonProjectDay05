@@ -1,0 +1,17 @@
+Chen Cole
+Email: chen.cole@example.com
+Phone: +00 555 148 2290
+Location: Bengaluru
+
+SUMMARY
+Analyst with 5 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+Python, JavaScript, AWS basics, PostgreSQL
+
+EXPERIENCE
+- Data Analyst, Stonebridge Software, 2024 to 2025
+- Backend Developer, Quillfeather Data, 2020 to 2024
+
+EDUCATION
+- B.Sc Mathematics, graduated 2018

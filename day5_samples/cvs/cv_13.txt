@@ -1,0 +1,16 @@
+Mira Marsh
+Email: mira.marsh@example.com
+Phone: +00 555 668 8324
+Location: Kochi
+
+SUMMARY
+Engineer with 2 years of experience. Likes clear tests and short pull requests.
+
+SKILLS
+Docker, SQL, Excel, Python
+
+EXPERIENCE
+- DevOps Engineer, Larkfield Labs, 2023 to 2025
+
+EDUCATION
+- B.Tech Computer Science, graduated 2021
